@@ -30,7 +30,7 @@ const CONFIG = {
 
   // notion configuration (required)
   notionConfig: {
-    pageId: process.env.NOTION_PAGE_ID,
+    pageId: process.env.https://dinnerathome.notion.site/8b6b539f84c94b4398f1de8cb2e4c4ef?v=85ea9adf87314758b29843af5a723e0e&pvs=4,
   },
 
   // plugin configuration (optional)
